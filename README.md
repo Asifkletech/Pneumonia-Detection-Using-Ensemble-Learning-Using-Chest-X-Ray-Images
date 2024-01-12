@@ -53,3 +53,5 @@ of the experiments including performance metrics and insights gained are present
 following this methodology researchers aim to develop a robust and accurate system for
 pneumonia detection from chest X-ray images with the potential to improve diagnostic
 accuracy at early stage and patient care.
+
+![Uploading functional d.PNG…]()
