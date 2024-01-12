@@ -59,18 +59,18 @@ accuracy at early stage and patient care.
 ![functional d](https://github.com/Asifkletech/Speech-recognition-system/assets/151855456/1ceb336f-5176-4af4-aebb-5a4a8df3f07b)
 
 # Conclusion
-In conclusion, the use of deep learning models, including ResNet, DenseNet, and MobileNet, for the detection of pneumonia in chest X-ray images is a promising approach.
+In conclusion, the use of deep learning models, including ResNet, DenseNet, and MobileNet, for the detection of pneumonia in chest X-ray images is a promising approach.
 These models have been shown to achieve high accuracy rates, even when trained on small
-datasets. Additionally, the use of ensemble learning techniques, such concatenation of the
+datasets. Additionally, the use of ensemble learning techniques, such as concatenation of the
 output of multiple models, can further improve the accuracy of pneumonia detection.
 Here are some of the key findings of this study:
 1).ResNet, DenseNet, and MobileNet are all capable of achieving high accuracy rates for
 pneumonia detection in chest X-ray images.
-2).The use of ensemble learning techniques, such as concatenation of the output of multiple models, can further improve the accuracy of pneumonia detection.
+2).The use of ensemble learning techniques, such as concatenation of the output of multiple models, can further improve the accuracy of pneumonia detection.
 3).The proposed method is a promising approach for the development of a computer-aided
 diagnosis system for pneumonia.
 Exploring the use of other deep learning models, such as convolutional neural networks
 (CNNs) and recurrent neural networks (RNNs), for pneumonia detection. Overall, the
 results of this study suggest that the use of deep learning models for pneumonia detection
-is a promising approach. Further research is needed to develop more robust and generalizable models that can be used in clinical settings.
+is a promising approach. Further research is needed to develop more robust and generalizable models that can be used in clinical settings.
 
