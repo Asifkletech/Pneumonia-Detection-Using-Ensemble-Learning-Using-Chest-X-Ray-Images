@@ -1,5 +1,5 @@
-## Speech recognition system
-# Introduction
+# Speech emotion recognition system
+## Introduction
 Pneumonia is a widespread and life-threatening respiratory infection that affects millions
 of people worldwide. Timely and accurate detection of pneumonia plays a crucial role in
 its management and treatment. Chest X-ray imaging is a commonly used diagnostic tool
@@ -18,7 +18,7 @@ operating characteristic curve (AUC-ROC) are used to assess the performance of e
 model. The models are compared based on these metrics to determine their effectiveness
 in pneumonia detection.
 
-# Objectives
+## Objectives
 
 * To develop a system that can accurately detect pneumonia in chest X-ray images.
 * To compare the performance of different deep learning models (ResNet, MobileNetV2,
@@ -34,7 +34,7 @@ can handle different datasets and real-world scenarios efficiently.
 * To explore how the system can assist healthcare professionals, such as radiologists, in
 making accurate and timely pneumonia diagnoses from chest X-ray images.
 
-# Methodology
+## Methodology
 
  The methodology of pneumonia detection using chest X-rays with ResNet, MobileNetV2,
 DenseNet architectures, and ensemble learning, the following steps are followed. Firstly, a
@@ -58,7 +58,7 @@ accuracy at early stage and patient care.
 
 ![functional d](https://github.com/Asifkletech/Speech-recognition-system/assets/151855456/1ceb336f-5176-4af4-aebb-5a4a8df3f07b)
 
-# Conclusion
+## Conclusion
 In conclusion, the use of deep learning models, including ResNet, DenseNet, and MobileNet, for the detection of pneumonia in chest X-ray images is a promising approach.
 These models have been shown to achieve high accuracy rates, even when trained on small
 datasets. Additionally, the use of ensemble learning techniques, such as concatenation of the
