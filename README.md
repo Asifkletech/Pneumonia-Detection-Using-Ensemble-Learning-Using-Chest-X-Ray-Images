@@ -33,3 +33,23 @@ like accuracy, sensitivity, specificity, precision, recall and F1 score.
 can handle different datasets and real-world scenarios efficiently.
 * To explore how the system can assist healthcare professionals, such as radiologists, in
 making accurate and timely pneumonia diagnoses from chest X-ray images.
+
+# Methodology
+
+n the methodology of pneumonia detection using chest X-rays with ResNet, MobileNetV2,
+DenseNet architectures, and ensemble learning, the following steps are followed. Firstly, a
+dataset of chest X-ray images containing pneumonia and non-pneumonia cases is collected
+and preprocessed to enhance image quality. Next, ResNet, MobileNetV2, and DenseNet
+models are selected as deep learning architectures for pneumonia detection due to their
+effectiveness in image classification tasks. Each model is then individually trained using
+the preprocessed images, adjusting hyperparameters to optimize performance.
+The trained models are evaluated using a validation set, considering accuracy, sensitivity, and specificity metrics. Ensemble learning techniques are applied to combine
+the predictions of the individual models, and the ensemble model is evaluated to assess its
+performance improvement. A comparison is made between the individual models and the
+ensemble model to identify the most effective approach. The selected model or ensemble
+is further tested on an independent dataset to assess generalization ability.
+The clinical applicability of the models is evaluated taking into account factors like computational efficiency and integration into healthcare systems. The results and analysis
+of the experiments including performance metrics and insights gained are presented. By
+following this methodology researchers aim to develop a robust and accurate system for
+pneumonia detection from chest X-ray images with the potential to improve diagnostic
+accuracy at early stage and patient care.
