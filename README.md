@@ -17,3 +17,19 @@ Evaluation metrics such as accuracy, sensitivity, specificity, and area under th
 operating characteristic curve (AUC-ROC) are used to assess the performance of each
 model. The models are compared based on these metrics to determine their effectiveness
 in pneumonia detection.
+
+# Objectives
+The objectives of the project are as follows
+ To develop a system that can accurately detect pneumonia in chest X-ray images.
+ To compare the performance of different deep learning models (ResNet, MobileNetV2,
+DenseNet) in terms of accuracy, sensitivity specificity and efficiency for pneumonia detection.
+ To extract relevant features from chest X-ray images using the choosen deep learning
+models to capture important patterns and characteristics associated with pneumonia.
+ To utilize ensemble learning techniques to combine the predictions of multiple models
+for improved accuracy and reliability in pneumonia detection.
+ To assess the performance of the developed models and ensemble approach using metrics
+like accuracy, sensitivity, specificity, precision, recall and F1 score.
+ To generalize and Optimize: Ensure that the developed models and ensemble approach
+can handle different datasets and real-world scenarios efficiently.
+ To explore how the system can assist healthcare professionals, such as radiologists, in
+making accurate and timely pneumonia diagnoses from chest X-ray images.
