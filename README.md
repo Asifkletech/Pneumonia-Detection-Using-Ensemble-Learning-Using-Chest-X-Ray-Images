@@ -1,4 +1,4 @@
-# Speech emotion recognition system
+# Pneumonia detection using ensemble learning using chest X-ray images
 ## Introduction
 Pneumonia is a widespread and life-threatening respiratory infection that affects millions
 of people worldwide. Timely and accurate detection of pneumonia plays a crucial role in
