@@ -73,15 +73,16 @@ output of multiple models, can further improve the accuracy of pneumonia detecti
 
 Here are some of the key findings of this study:
 
-1).ResNet, DenseNet, and MobileNet are all capable of achieving high accuracy rates for
+1)ResNet, DenseNet, and MobileNet are all capable of achieving high accuracy rates for
 pneumonia detection in chest X-ray images.
 
 2)The use of ensemble learning techniques, such as concatenation of the output of multiple models, can further improve the accuracy of pneumonia detection.
-3).The proposed method is a promising approach for the development of a computer-aided
+
+3)The proposed method is a promising approach for the development of a computer-aided
 diagnosis system for pneumonia.
 
 Exploring the use of other deep learning models, such as convolutional neural networks
-(CNNs) and recurrent neural networks (RNNs), for pneumonia detection. Overall, the
+(CNN) and recurrent neural networks (RNNs), for pneumonia detection. Overall, the
 results of this study suggest that the use of deep learning models for pneumonia detection
 is a promising approach. Further research is needed to develop more robust and generalizable models that can be used in clinical settings.
 
