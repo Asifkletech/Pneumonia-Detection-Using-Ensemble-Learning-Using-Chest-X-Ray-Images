@@ -22,7 +22,7 @@ in pneumonia detection.
 
 * To develop a system that can accurately detect pneumonia in chest X-ray images.
 * To compare the performance of different deep learning models (ResNet, MobileNetV2,
-DenseNet) in terms of accuracy, sensitivity specificity and efficiency for pneumonia detection.
+DenseNet) in terms of accuracy, sensitivity specificity and efficiency for pneumonia detection.
 * To extract relevant features from chest X-ray images using the choosen deep learning
 models to capture important patterns and characteristics associated with pneumonia.
 * To utilize ensemble learning techniques to combine the predictions of multiple models
