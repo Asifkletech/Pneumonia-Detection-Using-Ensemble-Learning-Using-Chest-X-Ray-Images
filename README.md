@@ -54,5 +54,6 @@ following this methodology researchers aim to develop a robust and accurate syst
 pneumonia detection from chest X-ray images with the potential to improve diagnostic
 accuracy at early stage and patient care.
 
-![Uploading functional d.PNG…]()
 
+
+![functional d](https://github.com/Asifkletech/Speech-recognition-system/assets/151855456/1ceb336f-5176-4af4-aebb-5a4a8df3f07b)
