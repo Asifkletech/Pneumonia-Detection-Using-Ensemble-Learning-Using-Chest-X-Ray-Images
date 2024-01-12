@@ -36,7 +36,7 @@ making accurate and timely pneumonia diagnoses from chest X-ray images.
 
 # Methodology
 
-n the methodology of pneumonia detection using chest X-rays with ResNet, MobileNetV2,
+ The methodology of pneumonia detection using chest X-rays with ResNet, MobileNetV2,
 DenseNet architectures, and ensemble learning, the following steps are followed. Firstly, a
 dataset of chest X-ray images containing pneumonia and non-pneumonia cases is collected
 and preprocessed to enhance image quality. Next, ResNet, MobileNetV2, and DenseNet
