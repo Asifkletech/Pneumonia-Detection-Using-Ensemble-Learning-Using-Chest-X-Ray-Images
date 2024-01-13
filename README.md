@@ -65,6 +65,13 @@ accuracy at early stage and patient care.
 
 ![functional d](https://github.com/Asifkletech/Speech-recognition-system/assets/151855456/1ceb336f-5176-4af4-aebb-5a4a8df3f07b)
 
+# Pneumonia X-Ray Image
+![Screenshot (261)](https://github.com/Asifkletech/Pneumonia-Detection-Using-Ensemble-Learning-Using-Chest-X-Ray-Images/assets/151855456/ac30c702-ffc5-49e8-a6f0-007efaeb5b58)
+
+# Normal X-Ray Image
+![Screenshot (261)](https://github.com/Asifkletech/Pneumonia-Detection-Using-Ensemble-Learning-Using-Chest-X-Ray-Images/assets/151855456/07690b14-f654-4ff6-ab0a-5ff40f297ee5)
+
+
 ## Conclusion
 In conclusion, the use of deep learning models, including ResNet, DenseNet, and MobileNet, for the detection of pneumonia in chest X-ray images is a promising approach.
 These models have been shown to achieve high accuracy rates, even when trained on small
