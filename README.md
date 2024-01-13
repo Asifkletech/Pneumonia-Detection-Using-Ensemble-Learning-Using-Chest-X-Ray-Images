@@ -69,8 +69,7 @@ accuracy at early stage and patient care.
 ![Screenshot (261)](https://github.com/Asifkletech/Pneumonia-Detection-Using-Ensemble-Learning-Using-Chest-X-Ray-Images/assets/151855456/ac30c702-ffc5-49e8-a6f0-007efaeb5b58)
 
 # Normal X-Ray Image
-![Screenshot (261)](https://github.com/Asifkletech/Pneumonia-Detection-Using-Ensemble-Learning-Using-Chest-X-Ray-Images/assets/151855456/34921ef9-dd43-4671-992b-c35237204d7f)
-
+![Screenshot (260)](https://github.com/Asifkletech/Pneumonia-Detection-Using-Ensemble-Learning-Using-Chest-X-Ray-Images/assets/151855456/11cfddf6-9e44-4b86-bddb-8bdf37c48ead)
 
 
 ## Conclusion
