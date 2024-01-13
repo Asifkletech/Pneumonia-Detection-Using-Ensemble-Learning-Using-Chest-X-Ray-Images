@@ -61,7 +61,10 @@ following this methodology researchers aim to develop a robust and accurate syst
 pneumonia detection from chest X-ray images with the potential to improve diagnostic
 accuracy at early stage and patient care.
 
+# Individual Models
+![Your paragraph text (1)](https://github.com/Asifkletech/Pneumonia-Detection-Using-Ensemble-Learning-Using-Chest-X-Ray-Images/assets/151855456/9db9c49e-ef92-4b9d-9e8f-4521542b37d3)
 
+# Ensemble Technique
 
 ![functional d](https://github.com/Asifkletech/Speech-recognition-system/assets/151855456/1ceb336f-5176-4af4-aebb-5a4a8df3f07b)
 
