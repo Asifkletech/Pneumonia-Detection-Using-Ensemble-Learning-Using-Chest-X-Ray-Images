@@ -96,3 +96,7 @@ Exploring the use of other deep learning models, such as convolutional neural ne
 results of this study suggest that the use of deep learning models for pneumonia detection
 is a promising approach. Further research is needed to develop more robust and generalizable models that can be used in clinical settings.
 
+## RESULTS
+
+![chart drawio (1)](https://github.com/Asifkletech/Pneumonia-Detection-Using-Ensemble-Learning-Using-Chest-X-Ray-Images/assets/151855456/21e92eaf-426c-482f-bd7d-02e1bb979331)
+
